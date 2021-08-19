@@ -1,4 +1,4 @@
-# Copyright 2021 by DADON#4076 
+# Copyright 2021 by Party Jumpin
 # All rights reserved.
 # This file is part of the Arcaea hacking efforts
 # and is released under GPLv3 Please see the LICENSE
