@@ -1,2 +1,2 @@
 # ArceaSwitchPack
-Scripts to unpack and unpack the files on arcea for Nintendo Switch
+Scripts to unpack and repack the files on arcea for Nintendo Switch
